@@ -10,6 +10,7 @@ using Microsoft.Extensions.Logging;
 
 namespace webgitttt
 {
+    thau dou trong file program
     public class Program
     {
         public static void Main(string[] args)
